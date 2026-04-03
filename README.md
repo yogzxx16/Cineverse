@@ -57,12 +57,6 @@ src/
   utils/          # api.js (TMDB API functions)
 ```
 
-## ⚙️ Environment Variables
-| Variable | Description |
-|----------|-------------|
-| `VITE_TMDB_API_KEY` | Your TMDB API v3 key |
-
-> ⚠️ Never commit your `.env` file. It is listed in `.gitignore`.
 
 ## 📜 API Attribution
 This product uses the TMDB API but is not endorsed or certified by TMDB.
