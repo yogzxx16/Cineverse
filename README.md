@@ -5,7 +5,7 @@ A modern, responsive movie discovery web application built with **React.js** and
 ![CineVerse](https://img.shields.io/badge/React-18-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-teal) ![TMDB](https://img.shields.io/badge/API-TMDB-green)
 
 ## 🌐 Live Demo
-🔗 [cineverse.vercel.app](https://your-vercel-url.vercel.app)
+🔗 [https://cineverse-yogzxx16.vercel.app/movies](https://your-vercel-url.vercel.app)
 
 ## ✨ Features
 - 🔍 Search movies with debounced input
